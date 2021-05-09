@@ -35,17 +35,13 @@ header{
     margin-right: 2px;
 }
 .sec1,.sec2,.sec3{
-    width: 558px;
-    
+    width: 558px; 
 }
-
 .sec4{ 
     background-color: #eee;
     height: 360px;
     margin-top: 100px;
     text-align: right;
-
-
 }
 aside{
     background-color: #fff;
@@ -56,18 +52,24 @@ aside{
     margin-top: 40px;
    text-align: center;
 }
-
 .sec4::after{
     content: "";
     clear: both;
     display: block;
     height: 1px;
-
 }
 div{
     background-color: #6ea3da;
     height: 60px;
     margin-top: 100px;
+}
+footer{
+    background-color: #ccc;
+    clear: both;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    margin-top: 20px;
 }
 
    
