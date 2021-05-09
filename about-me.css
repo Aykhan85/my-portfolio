@@ -1,0 +1,165 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    background-image: url(../images/arxa-fon.png);
+
+}
+header{
+    background-color: white;
+    height: 79px;
+    margin: 0px;
+
+}
+header .ad{
+    margin-left: 350px;
+    background-color: rgb(53, 122, 115);
+    color: white;
+    display: inline-block;
+    padding: 30px;
+    padding-right: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float: left;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: large;
+}
+nav{
+    float: right;
+    margin: 20px;
+}
+
+
+.link{
+    margin-right: 350px;
+    font-size: large;
+    height: 79px;
+    margin-top: 0px;
+    float: right;
+    text-align: center;
+    line-height: 40px;
+    
+}
+a{
+  color: rgb(177, 177, 177);
+  text-decoration: none;
+}
+div{
+    border: 1px solid rgb(241, 240, 240);
+}
+.about{
+    padding: 30px;
+    width: 588px;
+    border: 1px solid rgb(241, 240, 240);
+    height: 350px;
+    float: left;
+    margin-top: 30px;
+    background-color: white;
+    margin-left: 350px;
+    font-size: large;
+}
+.about img{
+    height: auto;
+    width: 200px;
+    margin-top: 15px;
+    float: left;
+    margin-right: 10px;
+}
+.paragraf{
+    float: left;
+}
+.a{
+   
+    border-bottom: 1px solid rgb(241, 240, 240)
+
+}
+h2{
+    color: rgb(53, 122, 115);
+    
+
+}
+aside{
+    float: right;
+    width: 208px;
+    background-color: white;
+    height: 140px;
+    color:rgb(53,122,115) ;
+    font-size: large;
+    padding: 30px;
+    margin: 30px 350px 0px 0px;
+    text-align: left;
+    border: 1px solid rgb(241, 240, 240);
+}
+aside img{
+    height: 50px;
+    width: 50px;
+    margin-right: 15px;
+    
+    
+   
+  
+}
+.xett{
+    margin: 20px;
+    margin-left: 0px;
+    border-color: rgb(241, 240, 240);
+}
+footer{
+    display: block;
+    background-color: #ccc;
+    height: 90px;
+    text-align: center;
+    line-height: 90px;
+
+}
+.foot{
+    display: block;
+    clear: both;
+    height: 30px;
+    margin-top: 30px;
+}
+.son{
+    display: block;
+    clear: both;
+    background-color: rgb(53, 122, 115);
+    height: 5px;
+}
+
+/*conatact.html-in css-leri*/
+.contact{
+    background-color: white;
+    width: 588px;
+    padding: 30px;
+    height: 545px;
+    margin-top: 30px;
+    font-size: large;
+    border: 1px solid rgb(241, 240, 240);
+    margin-left: 350px;
+    float: left;
+}
+.xett1{
+    margin-bottom: 10px;
+}
+label{
+
+    color: rgb(117, 117, 117);
+
+}
+input{
+    margin-top: 10px;
+    width: 500px;
+    height: 25px;
+    margin-bottom: 10px;
+}
+/*porfolionun css-leri*/
+.portfolio{
+    background-color: white;
+    width: 588px;
+    padding: 30px;
+    height: 700px;
+    margin-top: 30px;
+    font-size: large;
+    border: 1px solid rgb(241, 240, 240);
+    margin-left: 350px;
+    float: left;
+}
